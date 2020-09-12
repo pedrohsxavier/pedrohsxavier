@@ -1,7 +1,18 @@
-### Hi there 👋
+![webdev-pedro](/icons/capa.png "dev-pedro-xavier")
+
+#### Pedro Xavier 
+
+- - -
+
+I'm **Pedro Xavier**, a web developer from Brazil.
+
+:blue_heart: I'm always looking to expand my knowledge and through programming, to be able to help everyone around me.
+
+:computer: Currently working at **[Conductor](https://conductor.com.br/en/).**
+
+<!-- ### Hi there 👋 -->
 
 <!--
-
 **pedrohsxavier/pedrohsxavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
