@@ -1,6 +1,6 @@
-![webdev-pedro](/icons/capa.png "dev-pedro-xavier")
+![dev-pedro-xavier](/icons/capa.png "dev-pedro-xavier")
 
-#### Pedro Xavier 
+### Pedro Xavier 
 
 - - -
 
