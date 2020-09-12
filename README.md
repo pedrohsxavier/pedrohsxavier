@@ -1,4 +1,4 @@
-![dev-pedro-xavier](./icons/capa.png "dev-pedro-xavier")
+![dev-pedro-xavier](/pedrohsxavier/icons/capa.png "dev-pedro-xavier")
 
 ### Pedro Xavier 
 
