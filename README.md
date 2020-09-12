@@ -1,4 +1,4 @@
-![dev-pedro-xavier](/pedrohsxavier/icons/capa.png "dev-pedro-xavier")
+![dev-pedro-xavier](https://github.com/pedrohsxavier/pedrohsxavier/blob/master/icons/capa.png "dev-pedro-xavier")
 
 ### Pedro Xavier 
 
