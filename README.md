@@ -1,14 +1,15 @@
 ![dev-pedro-xavier](https://github.com/pedrohsxavier/pedrohsxavier/blob/master/icons/capa.png "dev-pedro-xavier")
 
-#### Pedro Xavier 
+## Pedro Xavier 
 
 - - -
 
 I'm **Pedro Xavier**, a web developer from Brazil.
 
-:blue_heart: I'm always looking to expand my knowledge and through programming, to be able to help everyone around me.
-
-:computer: Currently working at **[Conductor](https://conductor.com.br/en/).**
+- :blue_heart: I'm always looking to expand my knowledge and through programming, to be able to help everyone.
+- :computer: Currently working at **[Conductor](https://conductor.com.br/en/).**
+- :mortar_board: Master's student at IFPB.
+- :dart: I'm looking to improve my stack with React and NodeJS.
 
 <!-- ### Hi there 👋 -->
 
