@@ -2,8 +2,6 @@
 
 ## Pedro Xavier 
 
-- - -
-
 I'm **Pedro Xavier**, a web developer from Brazil.
 
 - :blue_heart: I'm always looking to expand my knowledge and through programming, to be able to help everyone.
