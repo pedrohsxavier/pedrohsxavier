@@ -7,11 +7,11 @@
   <a href="https://github.com/pedrohsxavier">
     <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=Github&logoColor=white&link=https://github.com/felipersdf" alt="Github badge"/>
   </a>
-  &nbsp;
+  <!-- &nbsp; -->
   
   <a href="https://www.linkedin.com/in/pedrohenriquexavier/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipersdf/" alt="Linkedin badge"/>
-  &nbsp;
+  <!-- &nbsp; -->
   
   <a href="mailto:phsxlive@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:felipefsr07@gmail.com" alt="Gmail badge"/>
@@ -24,21 +24,3 @@ I'm **Pedro Xavier**, web developer from Brazil.
 - :computer: Currently working at **[Conductor](https://conductor.com.br/en/).**
 - :mortar_board: Master's student at IFPB.
 - :dart: I'm looking to improve my stack with React and NodeJS.
-
-<!-- ### Hi there 👋 -->
-
-<!--
-**pedrohsxavier/pedrohsxavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Conductor [...]
-- 🌱 I’m currently learning [...]
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
