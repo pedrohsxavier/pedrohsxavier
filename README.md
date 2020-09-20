@@ -4,27 +4,19 @@
   Pedro Xavier
 </h1>
 
-<!--
 <p align="center">
-  <a href="https://github.com/pedrohsxavier">
-    <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github badge"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/pedrohenriquexavier/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge"/>
-  &nbsp;
-  <a href="mailto:phsxlive@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:phsxlive@gmail.com" alt="Gmail badge">
-  </a>
+  <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://www.github.com/pedrohsxavier/" alt="Github Badge"/>
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrohenriquexavier/" alt="Linkedin Badge"/>
+  <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:phsxlive@gmail.com" alt="Gmail Badge">
 </p>
 
--->
-
+<!-- 
 [![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/pedrohsxavier/)](https://github.com/pedrohsxavier/)
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrohenriquexavier/)](https://www.linkedin.com/in/pedrohenriquexavier/) 
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrohenriquexavier/)](https://www.linkedin.com/in/pedrohenriquexavier/)
 
-[![Gmail Badge](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:phsxlive@gmail.com)]
+[![Gmail Badge](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:phsxlive@gmail.com)](mailto:phsxlive@gmail.com) -->
+
 
 I'm **Pedro Xavier**, web developer from Brazil.
 
