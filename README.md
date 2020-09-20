@@ -5,16 +5,17 @@
 </h1>
 <p align="center">
   <a href="https://github.com/pedrohsxavier">
-    <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=Github&logoColor=white&link=https://github.com/felipersdf" alt="Github badge"/>
+    <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github badge"/>
   </a>
   <!-- &nbsp; -->
   
   <a href="https://www.linkedin.com/in/pedrohenriquexavier/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipersdf/" alt="Linkedin badge"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge"/>
   <!-- &nbsp; -->
   
   <a href="mailto:phsxlive@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:felipefsr07@gmail.com" alt="Gmail badge"/>
+    <!-- <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:felipefsr07@gmail.com" alt="Gmail badge"/> -->
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge">
   </a>
 </p>
 
