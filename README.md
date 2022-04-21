@@ -8,6 +8,6 @@
 I'm **Pedro Xavier**, a full stack developer from Brazil.
 
 - :blue_heart: I'm always looking to expand my knowledge and through programming, to be able to help everyone.
-- :computer: Currently working at **[Conductor](https://conductor.com.br/en/).**
+- :computer: Currently working at **[Locaweb](https://www.locaweb.com.br/).**
 - :mortar_board: Currently finishing IT graduation at IFPB.
 <!-- - :dart: I'm looking to improve my skills. -->
