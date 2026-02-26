@@ -11,3 +11,5 @@ I'm **Pedro Xavier**, a backend developer from Brazil.
 <!-- - :computer: Currently working at **[Locaweb](https://www.locaweb.com.br/).** -->
 - :mortar_board: Graduated in IT at at [IFPB](https://www.ifpb.edu.br/).
 <!-- - :dart: I'm looking to improve my skills. -->
+
+## 🔥 About Me
