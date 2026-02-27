@@ -17,6 +17,10 @@ I’m a **Software Developer with 5+ years of experience** building web applicat
 
 ---
 
+### Skills
+
+---
+
 ### Let's Connect
 
 [![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/pedrohsxavier/)](https://github.com/pedrohsxavier/) [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrohenriquexavier/)](https://www.linkedin.com/in/pedrodsxavier/) [![Gmail Badge](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:phsxlive@gmail.com)](mailto:phsxlive@gmail.com)
