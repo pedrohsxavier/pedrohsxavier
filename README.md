@@ -1,46 +1,79 @@
-<!-- ![dev-pedro-xavier](https://github.com/pedrohsxavier/pedrohsxavier/blob/master/icons/capa.png "dev-pedro-xavier") -->
-
 <div align="center">
-  <h1>Hi, there! :wave: I'm Pedro Xavier</h1>
-  
-  <p><strong>Software Developer | Backend & Distributed Systems | Builder</strong></p>
+
+<h1>Pedro Xavier</h1>
+
+<p>
+  <strong>Software Engineer</strong><br/>
+  Backend · Distributed Systems · Architecture
+</p>
+
 </div>
-
-### About Me
-
-I’m a **Software Developer with 5+ years of experience** building web applications with a focus on building *robust and scalable systems*. My journey in technology is marked by the pursuit of **efficient code**, **sustainable solutions**, and feature implementations that deliver **real business value**.
-
-<!-- - :blue_heart: I'm always looking to expand my knowledge and through programming, to be able to help everyone.  -->
-<!-- - :computer: Currently working at **[Xyz](https://www.xyz.com.br/).** -->
-<!-- - :mortar_board: Graduated in IT at at [IFPB](https://www.ifpb.edu.br/). -->
-<!-- - :dart: I'm looking to improve my skills. -->
 
 ---
 
-### Skills and Tools
+## Overview
 
-<!-- <a href=""><img src="" alt="logo" width="40" height="40" style="margin-right:10px;"/></a> -->
+Software Engineer with 5+ years of experience designing and delivering scalable backend systems in production environments.
 
-<p align="left">
-  <a href="https://angular.dev/"><img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40" style="margin-right:10px;"/></a>
-  <a href="https://www.w3.org/Style/CSS/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40" style="margin-right:10px;"/></a>
-  <a href="https://www.docker.com/"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40" style="margin-right:10px;"/></a>
-  <a href="https://dotnet.microsoft.com/"><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="dotnet" width="40" height="40" style="margin-right:10px;"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right:10px;"/></a>
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40" style="margin-right:10px;"/></a>
-  <a href="https://www.java.com/"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" style="margin-right:10px;"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40" style="margin-right:10px;"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" style="margin-right:10px;"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right:10px;"/></a>
-  <a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" style="margin-right:10px;"/></a>
-  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin-right:10px;"/></a>
-  <a href="https://postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="margin-right:10px;"/></a>
-  <a href="https://www.rabbitmq.com/"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40" style="margin-right:10px;"/></a>
-  <a href="https://redis.io/"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40" style="margin-right:10px;"/></a>
-  <a href="https://www.ruby-lang.org/"><img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="40" height="40" style="margin-right:10px;"/></a>
-  <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" style="margin-right:10px;"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40" /></a>
-</p>
+Focused on architecture, performance and long-term maintainability.  
+Experienced in distributed systems, event-driven communication and resilient service design.
+
+---
+
+## Stack
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><strong>Languages</strong></td>
+    <td align="center"><strong>Frameworks</strong></td>
+    <td align="center"><strong>Data</strong></td>
+    <td align="center"><strong>Infrastructure</strong></td>
+    <td align="center"><strong>Cloud</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.java.com/"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="30"/></a>
+      <a href="https://dotnet.microsoft.com/"><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="30"/></a>
+      <a href="https://www.ruby-lang.org/"><img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" width="30"/></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="30"/></a>
+      <a href="https://www.typescriptlang.org/"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="30"/></a>
+    </td>
+    <td align="center">
+      <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="30"/></a>
+      <a href="https://angular.dev/"><img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="30"/></a>
+    </td>
+    <td align="center">
+      <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="30"/></a>
+      <a href="https://www.mongodb.com/"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="30"/></a>
+      <a href="https://redis.io/"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="30"/></a>
+      <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30"/></a>
+      <a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="30"/></a>
+    </td>
+    <td align="center">
+      <a href="https://www.docker.com/"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="30"/></a>
+      <a href="https://www.rabbitmq.com/"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="30"/></a>
+      <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/></a>
+      <a href="https://postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30"/></a>
+    </td>
+    <td align="center">
+      <em>Loading...</em>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## Engineering Principles
+
+- Scalable and resilient architectures  
+- Event-driven systems  
+- Microservices and modular design  
+- Clean code and SOLID principles  
+- Business-oriented engineering  
 
 ---
 
