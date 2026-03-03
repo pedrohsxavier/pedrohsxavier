@@ -36,6 +36,7 @@ Experienced in distributed systems, event-driven communication and resilient ser
     <td align="center">
       <a href="https://www.java.com/"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="30"/></a>
       <a href="https://dotnet.microsoft.com/"><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="30"/></a>
+      <a href="https://www.php.net/"><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="30"/></a>
       <a href="https://www.ruby-lang.org/"><img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" width="30"/></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="30"/></a>
       <a href="https://www.typescriptlang.org/"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="30"/></a>
@@ -43,6 +44,7 @@ Experienced in distributed systems, event-driven communication and resilient ser
     <td align="center">
       <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="30"/></a>
       <a href="https://angular.dev/"><img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="30"/></a>
+      <a href="https://laravel.com/"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="30"/></a>
     </td>
     <td align="center">
       <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="30"/></a>
