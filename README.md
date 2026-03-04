@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Pedro Xavier</h1>
+<h1>Hi, there! :wave: I'm Pedro Xavier</h1>
 
 <p>
   <strong>Software Engineer</strong><br/>
