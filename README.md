@@ -11,7 +11,7 @@
 
 ---
 
-## Overview
+### Overview
 
 Software Engineer with 5+ years of experience designing and delivering scalable backend systems in production environments.
 
@@ -20,7 +20,7 @@ Experienced in distributed systems, event-driven communication and resilient ser
 
 ---
 
-## Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -69,7 +69,7 @@ Experienced in distributed systems, event-driven communication and resilient ser
 
 ---
 
-## Engineering Principles
+### 🧩 Engineering Principles
 
 - Scalable and resilient architectures  
 - Event-driven systems  
@@ -79,6 +79,20 @@ Experienced in distributed systems, event-driven communication and resilient ser
 
 ---
 
-### Let's Connect
+<h3>📊 GitHub Analytics</h3>
 
-[![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/pedrohsxavier/)](https://github.com/pedrohsxavier/) [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrohenriquexavier/)](https://www.linkedin.com/in/pedrodsxavier/) [![Gmail Badge](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:phsxlive@gmail.com)](mailto:phsxlive@gmail.com)
+<p align="center">
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedrohsxavier&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://streak-stats.demolab.com?user=pedrohsxavier&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedrohsxavier&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pedrohsxavier&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge"/>
+</p>
+
+---
+
+<h3>🔗 Let's Connect</h3>
+
+[![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/pedrohsxavier/)](https://github.com/pedrohsxavier/) [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrodsxavier/)](https://www.linkedin.com/in/pedrodsxavier/) [![Gmail Badge](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:phsxlive@gmail.com)](mailto:phsxlive@gmail.com)
