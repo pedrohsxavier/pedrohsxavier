@@ -96,3 +96,7 @@ Experienced in distributed systems, event-driven communication and resilient ser
 <h3>🔗 Let's Connect</h3>
 
 [![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/pedrohsxavier/)](https://github.com/pedrohsxavier/) [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrodsxavier/)](https://www.linkedin.com/in/pedrodsxavier/) [![Gmail Badge](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:phsxlive@gmail.com)](mailto:phsxlive@gmail.com)
+
+<div align="center">
+  <b>©️ 2026 Pedro Xavier</b>
+</div>
