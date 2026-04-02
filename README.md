@@ -22,7 +22,7 @@ Experienced in distributed systems, event-driven communication and resilient ser
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,cs,dotnet,angular,nodejs,html,css,js,ts,ruby,rails,mysql,mongodb,docker,rabbitmq,redis,git,postman,vercel&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,cs,dotnet,angular,nodejs,html,css,js,ts,ruby,rails,mysql,mongodb,docker,rabbitmq,redis,git,postman,vercel,idea,vscode,ubuntu&theme=dark)](https://skillicons.dev)
 
 ---
 
