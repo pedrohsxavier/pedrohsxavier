@@ -39,13 +39,13 @@ Experienced in distributed systems, event-driven communication and resilient ser
 <h3>📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedrohsxavier&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://streak-stats.demolab.com?user=pedrohsxavier&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedrohsxavier&layout=compact&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedrodsxavier&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://streak-stats.demolab.com?user=pedrodsxavier&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedrodsxavier&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pedrohsxavier&label=PROFILE+VIEWS&color=6a329f&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=pedrodsxavier&label=PROFILE+VIEWS&color=6a329f&style=for-the-badge"/>
 </p>
 
 ---
