@@ -4,7 +4,7 @@
   
   <p>
     <strong>Software Engineer</strong><br/>
-    Backend · Distributed Systems · Architecture
+    Fullstack · Distributed Systems · Architecture
   </p>
 
 </div>
