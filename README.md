@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h2>Pedro Xavier</h2>
+  <h1>Pedro Xavier</h1>
   
   <p>
     <strong>Software Engineer</strong><br/>
