@@ -26,16 +26,6 @@ Experienced in distributed systems, event-driven communication and resilient ser
 
 ---
 
-### 🧩 Engineering Principles
-
-- Scalable and resilient architectures  
-- Event-driven systems  
-- Microservices and modular design  
-- Clean code and SOLID principles  
-- Business-oriented engineering  
-
----
-
 <h3>📊 GitHub Analytics</h3>
 
 <p align="center">
