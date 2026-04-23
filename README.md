@@ -4,7 +4,7 @@
   
   <p>
     <strong>Software Engineer</strong><br/>
-    Fullstack · Distributed Systems · Architecture
+    Full Stack · System Design · Clean Architecture
   </p>
 
 </div>
@@ -22,7 +22,25 @@ Experienced in distributed systems, event-driven communication and resilient ser
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,cs,dotnet,angular,nodejs,expressjs,html,css,js,ts,ruby,rails,mysql,mongodb,docker,prisma,rabbitmq,redis,git,postman,vercel,idea,vscode,visualstudio,ubuntu&theme=dark)](https://skillicons.dev)
+#### Programming Languages
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,cs,ruby,javascript,typescript&theme=dark)](https://skillicons.dev)
+
+#### Backend
+
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,expressjs,dotnet,rails&theme=dark)](https://skillicons.dev)
+
+#### Frontend
+
+[![My Skills](https://skillicons.dev/icons?i=angular,html,css&theme=dark)](https://skillicons.dev)
+
+#### Database & Messaging
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,rabbitmq,redis,mongodb&theme=dark)](https://skillicons.dev)
+
+#### DevOps & Tools 
+
+[![My Skills](https://skillicons.dev/icons?i=docker,prisma,postman,git,idea,vscode,visualstudio&theme=dark)](https://skillicons.dev)
 
 ---
 
