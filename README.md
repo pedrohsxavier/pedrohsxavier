@@ -1,11 +1,6 @@
 <div align="center">
-
-  <h2>Pedro Xavier</h2>
   
-  <p>
-    <strong>Software Engineer</strong><br/>
-    Full Stack · System Design · Clean Architecture
-  </p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=6a329f&text=PEDRO%20XAVIER&textBg=false&reversal=false&fontSize=52&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Engineering%20·%20System%20Design%20·%20Software%20Architecture&descAlign=50&descAlignY=54&fontColor=ffffff&descSize=18"/>
 
 </div>
 
