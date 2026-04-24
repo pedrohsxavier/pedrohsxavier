@@ -1,6 +1,12 @@
 <div align="center">
   
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=6a329f&text=PEDRO%20XAVIER&textBg=false&reversal=false&fontSize=52&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Engineering%20·%20System%20Design%20·%20Software%20Architecture&descAlign=50&descAlignY=54&fontColor=ffffff&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=6a329f&text=PEDRO%20XAVIER&textBg=false&reversal=false&fontSize=48&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Engineering%20·%20System%20Design%20·%20Software%20Architecture&descAlign=50&descAlignY=54&fontColor=ffffff&descSize=18"/>
+
+</div>
+
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=750&size=20&duration=2800&pause=1200&color=6a329f&center=true&vCenter=true&width=800&lines=Distributed+Systems+%7C+Simplified+Solutions;Performance+%26+Maintainability+Focused;Problem+Solver+%7C+Continuous+Learning;Building+Reliable+Software+%F0%9F%9A%80%EF%B8%8F" alt="Typing SVG"/>
 
 </div>
 
