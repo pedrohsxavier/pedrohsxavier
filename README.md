@@ -14,7 +14,7 @@
 
 ### Overview
 
-Software Developer with 6+ years of experience designing and delivering scalable backend systems in production environments.
+Software Developer with 7+ years of experience designing and delivering scalable backend systems in production environments.
 
 Focused on architecture, performance and long-term maintainability.
 Experienced in distributed systems, event-driven communication and resilient service design.
