@@ -33,7 +33,7 @@ Experienced in distributed systems, event-driven communication and resilient ser
 
 #### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=angular,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,react,html,css&theme=dark)](https://skillicons.dev)
 
 #### Database & Messaging
 
